@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6266bf8a.css",
+    "main.js": "./static/js/main.9c2b3f26.js",
+    "static/media/olive-oil.png": "./static/media/olive-oil.a0ec6ba3e4370d0b47e2.png",
+    "static/media/oranges.png": "./static/media/oranges.330e4f91aace70f35dc1.png",
+    "static/media/fresh-milk.png": "./static/media/fresh-milk.f062d9e53adb44be1911.png",
+    "static/media/brocoli.png": "./static/media/brocoli.77a5a5d110fd75eb4fb1.png",
+    "static/media/cottage-cheese.png": "./static/media/cottage-cheese.276b2d368ec2ae0c24a4.png",
+    "index.html": "./index.html",
+    "main.6266bf8a.css.map": "./static/css/main.6266bf8a.css.map",
+    "main.9c2b3f26.js.map": "./static/js/main.9c2b3f26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6266bf8a.css",
+    "static/js/main.9c2b3f26.js"
+  ]
+}
